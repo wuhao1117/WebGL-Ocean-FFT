@@ -1,3 +1,7 @@
+/*
+ *  Written by Hao Wu
+ * 
+ */
 ////////////////COPYRIGHT DECLARATION//////////////////////
 //////
 ////// COPYRIGHT GUANYU HE AND HAO WU, 2013
