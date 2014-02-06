@@ -24,13 +24,13 @@
 var fftHorizontalProgram;
 var fftVerticalProgram;
 
-var spectrumFramebuffer;
+var spectrumFramebuffer; 
 var spectrumTextureA;
 var spectrumTextureB;
 var initialSpectrumTex;
 
 var butterflyTextures;
-
+ 
 var heightFieldTex;
 
 var numFFTStages;
